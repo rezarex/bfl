@@ -4,6 +4,8 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
+#comment added
+
 from elasticsearch.helpers import bulk
 
 def main():

@@ -2,7 +2,7 @@
 BuffaLogs is an Open Source Django Project whose main purpose is to detect impossible travel logins.
 
 In details, it sends several types of alerts:
-1.  **Impossible Travel**
+1.  **Impossible Travel Noted**
 
     It occurs when a user logs into the system from a significant distance within a range of time that cannot be covered by conventional means of transport.
 
