@@ -4,7 +4,7 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
-#ffffff
+#fffffff
 
 from elasticsearch.helpers import bulk
 
