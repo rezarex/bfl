@@ -4,10 +4,7 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
-#some changes made
-#jjjjhhhhh
-
-#comment added hhh
+#ffffff
 
 from elasticsearch.helpers import bulk
 
