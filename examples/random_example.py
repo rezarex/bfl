@@ -22,7 +22,7 @@ def main():
         str_time = now.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
         head = str_time[:-4]
         tail = str_time[-1:]
-        tmp["@timestamp"] = head + tail #head
+        tmp["@timestamp"] = head + tail 
             
         tmp["user"] = {"name": random.choice(read_data["user_name"])}
         tmp["event"] = {"outcome": random.choice(event_outcome)}
