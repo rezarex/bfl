@@ -4,7 +4,7 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
-#some random changes
+#some random changes.
 from elasticsearch.helpers import bulk
 
 def main():
