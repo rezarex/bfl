@@ -4,6 +4,8 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
+# a great day to die
+
 from elasticsearch.helpers import bulk
 #random issue.....trial
 def main():
