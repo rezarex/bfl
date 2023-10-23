@@ -5,7 +5,7 @@ from elasticsearch import Elasticsearch
 import yaml
 
 #some wierd changes....
-#mmmmmhdhdhdhd
+#mmmmmhdhdh
 from elasticsearch.helpers import bulk
 
 def main():
