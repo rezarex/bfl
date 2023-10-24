@@ -4,7 +4,7 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
-# a great day to die
+# untill the end of time
 
 from elasticsearch.helpers import bulk
 #random issue.....trial
