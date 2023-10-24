@@ -3,8 +3,7 @@ import json
 import random
 from elasticsearch import Elasticsearch
 import yaml
-
-# until the end offeklwgj timejdfhf....
+#dskfmlm
 
 from elasticsearch.helpers import bulk
 def main():
