@@ -7,7 +7,7 @@ import yaml
 # a great day to die
 
 from elasticsearch.helpers import bulk
-#random issue.....trial
+#random issue.....trialmmmmmm
 def main():
     fields = []
     es = Elasticsearch(["http://localhost:9200"])
