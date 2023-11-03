@@ -3,7 +3,6 @@ import json
 import random
 from elasticsearch import Elasticsearch
 import yaml
-#dskfmlmekjfgljrjjijkfdfgddhfhdfjslfsidofekjflweurhkgjfsgkljlgjjkfljvjkvjljldkjdklf
 
 from elasticsearch.helpers import bulk
 def main():
