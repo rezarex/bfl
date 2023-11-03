@@ -4,7 +4,6 @@ import random
 from elasticsearch import Elasticsearch
 import yaml
 
-
 from elasticsearch.helpers import bulk
 def main():
     fields = []
