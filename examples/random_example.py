@@ -36,7 +36,7 @@ def main():
 
         fields.append(tmp)
     write_bulk(es, fields)
-
+    #write_bulk(es, fields)
 def write_bulk(es, msg_list):
     """Save a list of messages to sensor_stats index
 
